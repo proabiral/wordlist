@@ -1,5 +1,3 @@
-domain_part
-
 com
 mail
 net
@@ -379,9 +377,7 @@ southcentralus
 westus2
 rentcafecn
 auth0
- namehost\@WORLDNIC
 DOMAIN
- dnsadmin\@domain
 slt
 5
 easypanel
@@ -2092,7 +2088,6 @@ sxldns
 cbricdns
 adm
 xfn
- root\@hostgator
 idm
 hopto
 correopremium
@@ -3952,7 +3947,6 @@ deltacdn
 mucdn
 digi
 verizon
- root\@register
 lmspowered
 idogcdn
 specdns
@@ -42195,7 +42189,6 @@ fgt
 touch
 mk-www
 am-torresnovas
- upload\
 dnsmaddigital
 dynamail
 aliveonline
@@ -51402,7 +51395,6 @@ mediabasement-com
 freefire-even
 bailine-com
 maildee
-com\/
 allisearch
 jvmequipment-com
 genotec
@@ -57032,7 +57024,6 @@ spirit
 shana
 theknotww
 art-media
-\@
 cesml
 joeshomeimprovementblog
 istochnic
@@ -63749,7 +63740,6 @@ muyakuda
 ochreliving
 demiurgo
 smn
-app\/
 infografiaweb
 cpc4
 editions-lariviere
@@ -73547,7 +73537,6 @@ nerdfuel
 celisa
 birashost
 polymath
-http\:\/\/www
 graylog
 pontenova
 dataa
@@ -200578,7 +200567,6 @@ hillsreservations
 haco-ne
 nbcueventsregistration
 willcholden
- namehost\@NAMESECURE
 careervelocity
 vonessenlockmn
 e50
@@ -202241,7 +202229,6 @@ vilbel
 celtictorcs
 hahne-lift
 silconplastic
- technologies\
 businessdemon
 uglywhitetruck
 pangea-info
@@ -272201,7 +272188,6 @@ texanagcd
 triwus
 oberberg
 dinslaken-monteurzimmer
-http\:\/\/aspmx
 gemershop
 challenger-org
 mailsbestfriend
@@ -290647,3 +290633,39 @@ golbesdfukunft
 vanspeybroeck
 coach-mode
 cards-bussines
+namehost
+root
+dns
+hostmaster
+OPERADOR
+operador
+ADMIN
+HOSTMASTER
+admin
+DNS
+postmaster
+dnsconct
+mkobaza
+DNSREQUEST
+dnsadmin
+monitoring
+webmaster
+markesses
+ProdSupport-DNS
+DNS-ADMIN
+contact
+INFO
+CNAMEwpcloud1
+CNAMEwpcloud2
+TMHCC_DNSMgmt_DL
+NSMaster
+cpanel
+WebAndDNSMaster
+servidores
+abuse
+HELPDESK
+dnsmaster
+Admin
+mail
+farasadrweb
+dl_N-DNS
